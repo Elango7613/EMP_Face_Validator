@@ -1,5 +1,5 @@
 boost==0.1
-skbuild
+scikit-build
 cmake==0.7.1
 Click==7.0
 dlib==19.19.0
